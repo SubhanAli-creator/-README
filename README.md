@@ -1,5 +1,5 @@
 # -README
-# Hi there, I'm Subhan Ali 👋
+# <centre>Hi there, I'm Subhan Ali 👋</centre>
 
 Welcome to my GitHub profile! I’m a passionate and aspiring software developer. I’m excited to explore new technologies and contribute to open-source projects. 
 
