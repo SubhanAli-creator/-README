@@ -16,5 +16,5 @@
 - 🎬 [Movie Sentiment Analysis](https://github.com/SubhanAli-creator/movie-sentiment-analysis)
 
 ## 📫 How to Reach Me
-- Gmail: devsubhanali@gmail.com
+- Gmail: subhanmajeed469@gmail.com
 - LinkedIn: www.linkedin.com/in/subhan-ali-ml
